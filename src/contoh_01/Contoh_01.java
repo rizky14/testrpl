@@ -18,6 +18,7 @@ public class Contoh_01 {
         // TODO code application logic here
         System.out.println("Welcome");
         System.out.println("Halaman Unikom");
+        System.out.println("Hallo Mahasiswa");
     }
     
 }
